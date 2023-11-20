@@ -5,23 +5,23 @@ Access a publicly-sourced, regularly validated list of proxies, pre-checked for 
 Last Updated: `Monday 20-11-2023 03:10:59 UTC`
 
 Alive:
-- http: `14307`
-- sock4: `14307`
-- sock5: `14307` 
+- http: `457`
+- sock4: `410`
+- sock5: `314` 
 
 ## GET PROXY
 
 ### HTTP(S)
 
-```processing```
+```https://raw.githubusercontent.com/junioralive/PROXY-Alive/main/http.txt```
 
 ### SOCKS4
 
-```processing```
+```https://raw.githubusercontent.com/junioralive/PROXY-Alive/main/socks4.txt```
 
 ### SOCKS5
 
-```processing```
+```https://raw.githubusercontent.com/junioralive/PROXY-Alive/main/socks5.txt```
 
 ## DISCLAIMER
 
