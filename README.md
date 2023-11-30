@@ -2,12 +2,12 @@
 
 Access a publicly-sourced, regularly validated list of proxies, pre-checked for availability to save you the hassle of verification.
 
-Last Checked: `Thursday 30-11-2023 19:00:02 UTC`
+Last Checked: `Thursday 30-11-2023 21:00:02 UTC`
 
 Alive:
-- http: `491`
-- socks4: `466`
-- socks5: `451`
+- http: `508`
+- socks4: `485`
+- socks5: `427`
 
 ## GET PROXY
 
